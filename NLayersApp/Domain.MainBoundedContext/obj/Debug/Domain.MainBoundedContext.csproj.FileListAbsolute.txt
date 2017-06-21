@@ -1,0 +1,9 @@
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\bin\Debug\Domain.MainBoundedContext.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\bin\Debug\Domain.MainBoundedContext.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\bin\Debug\Domain.SeedWork.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\bin\Debug\Domain.SeedWork.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\obj\Debug\Domain.MainBoundedContext.csprojResolveAssemblyReference.cache
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\obj\Debug\Domain.MainBoundedContext.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\obj\Debug\Domain.MainBoundedContext.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\obj\Debug\Domain.MainBoundedContext.Resources.Messages.resources
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext\obj\Debug\Domain.MainBoundedContext.csproj.GenerateResource.Cache

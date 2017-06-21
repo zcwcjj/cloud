@@ -1,0 +1,9 @@
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.MainBoundedContext.Tests.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.MainBoundedContext.Tests.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.MainBoundedContext.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.SeedWork.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.MainBoundedContext.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\bin\Debug\Domain.SeedWork.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\obj\Debug\Domain.MainBoundedContext.Tests.csprojResolveAssemblyReference.cache
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\obj\Debug\Domain.MainBoundedContext.Tests.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.MainBoundedContext.Tests\obj\Debug\Domain.MainBoundedContext.Tests.pdb

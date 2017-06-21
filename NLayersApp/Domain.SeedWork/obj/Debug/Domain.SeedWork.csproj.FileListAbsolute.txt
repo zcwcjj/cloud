@@ -1,0 +1,5 @@
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.SeedWork\bin\Debug\Domain.SeedWork.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.SeedWork\bin\Debug\Domain.SeedWork.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.SeedWork\obj\Debug\Domain.SeedWork.dll
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.SeedWork\obj\Debug\Domain.SeedWork.pdb
+c:\users\zcw\documents\visual studio 2012\Projects\NLayersApp\Domain.SeedWork\obj\Debug\Domain.SeedWork.csprojResolveAssemblyReference.cache
